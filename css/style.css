@@ -1,0 +1,25 @@
+.cntt{
+    background-color: brown;
+    border: none;
+    color: #fff;
+    border: none;
+}
+
+.cntt:hover {
+    background-color: rgb(82, 14, 14);
+    color: #fff;
+}
+
+.cntt:visited {
+    background-color: brown;
+    outline: none;
+}
+
+.whitebg {
+    background-color: #FBFFFE !important;
+}
+
+.btnColor {
+    color: brown !important ;
+
+}
